@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions or feedback, please reach out to [your-email@example.com]
+For questions or feedback, please reach out to [chandrilmallick1@gmail.com]
 
 ---
 
