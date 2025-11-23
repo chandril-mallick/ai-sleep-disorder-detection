@@ -2,6 +2,10 @@
 
 An AI-powered clinical decision support system for sleep disorder detection and health monitoring, featuring smartwatch integration and advanced analytics.
 
+## 🌐 Live Demo
+
+**Try it now:** [https://ai-sleep-disorder-detection.streamlit.app/](https://ai-sleep-disorder-detection.streamlit.app/)
+
 ## 🎯 Project Overview
 
 This application uses machine learning to predict sleep disorders (Healthy, Insomnia, Sleep Apnea) based on patient health metrics. It features a professional dark-themed dashboard with real-time data visualization, smartwatch connectivity simulation, and personalized health recommendations.
@@ -185,6 +189,21 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Sleep Health and Lifestyle Dataset
 - Streamlit community
 - scikit-learn documentation
+
+## 🚀 Deployment
+
+This application is deployed on Streamlit Cloud and accessible at:
+**[https://ai-sleep-disorder-detection.streamlit.app/](https://ai-sleep-disorder-detection.streamlit.app/)**
+
+### Deploy Your Own Instance
+
+1. Fork this repository
+2. Sign up for [Streamlit Cloud](https://streamlit.io/cloud)
+3. Connect your GitHub account
+4. Deploy using:
+   - **Repository**: Your forked repo
+   - **Branch**: `main`
+   - **Main file**: `dashboard/main.py`
 
 ## 📧 Contact
 
